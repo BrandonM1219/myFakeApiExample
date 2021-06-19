@@ -1,0 +1,14 @@
+{
+    "comentarios":[
+        {"id": 1, "email": "micorreo@idominio.com", "nombre": "Juan Perez", "entrada": "Comentario 1"},
+        {"id": 2, "email": "ana_karenia@idominio.com", "nombre": "Ana Karenia", "entrada": "Comentario 2"},
+        {"id": 3, "email": "Khalsei_Dragon@idominio.com", "nombre": "Khalsei Dragon", "entrada": "Comentario 3"},
+        {"id": 4, "email": "jhon_snow@idominio.com", "nombre": "Jhon Snow", "entrada": "Comentario 4"},
+        {"id": 5, "email": "nedstar@idominio.com", "nombre": "Ned Star", "entrada": "Comentario 5"}
+
+    ],
+    "productos":[
+        {"id":1, "disProducto": "Mi Producto", "descripcion": "ALGUNA DESCRIPCION CORTA"},
+        {"id":2, "disProducto": "sEGUNDO Producto", "descripcion": "ALGUNA DESCRIPCION CORTA"}
+    ]
+}
